@@ -49,34 +49,11 @@ Google AI Studio (App Published Link)
 Version Control
 GitHub Repository
 
-🧪 Database Tables (Supabase)
-pets
-Column	Type
-id	uuid (Primary Key)
-owner_id	text
-name	text
-species	text
-breed	text
-age	int
-temperament	text
-description	text
-hourly_rate	int
-image_url	text
-dos	text[]
-donts	text[]
-created_at	timestamp
-
 ✨ All CRUD operations apply to this table.
 
 📽️ Demo Video
-A Loom video walkthrough of the entire application including:
-(Idea explanation
-Landing page
-Authentication flow
-CRUD demo
-Supabase live table updates)
-Pawster is a simple pet-sharing platform where pet owners can list their pets, add care instructions, and manage bookings, while users looking for companionship can explore pets, request short playtime sessions, and interact through a community forum. The app includes login/signup, Supabase-powered profiles, CRUD for pets and posts, and a clean, user-friendly interface built entirely in Google AI Studio.
-👉https://drive.google.com/file/d/1m83fh6Z-jsc3brhgtr4DbQ1kyuBQpTbQ/view?usp=sharing
+A Loom video walkthrough of the entire application:Pawster is a simple pet-sharing platform where pet owners can list their pets, add care instructions, and manage bookings, while users looking for companionship can explore pets, request short playtime sessions, and interact through a community forum. The app includes login/signup, Supabase-powered profiles, CRUD for pets and posts, and a clean, user-friendly interface built entirely in Google AI Studio.
+👉https://drive.google.com/file/d/13QP-T16zizkUWl9QxPyvCVM_54G1AWyo/view?usp=sharing
 
 Drive link with photos of the app
 👉https://drive.google.com/drive/folders/1CfTt_wqiajAKcWyImdqPo6vxEEYJir7n?usp=sharing
@@ -84,20 +61,8 @@ Drive link with photos of the app
 🔗 Live App Link
 👉https://ai.studio/apps/drive/1uj-6l7WqRLUGd__5N_bN3DdsDpBWmR_3
 
-
 📦 GitHub Repository
 👉 https://github.com/ShrutiKhetan2002/Pawster-app
-
-📌 Assignment Requirements – All Completed
-Requirement	Status
-Landing Page	✔ Done
-Login / Signup / Forgot Password	✔ Done
-CRUD Operation	✔ Done (Create, Read, Update, Delete)
-Frontend	✔ React
-Database	✔ Supabase
-GitHub Integration	✔ Complete
-App Link	✔ Ready
-Loom Video	✔ Done
 
 🙌 Credits
 
